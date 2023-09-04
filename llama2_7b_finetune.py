@@ -1,6 +1,6 @@
 # Based on younesbelkada/finetune_llama_v2.py
 # Install the following libraries:
-# pip install accelerate==0.21.0 peft==0.4.0 bitsandbytes==0.40.2 transformers==4.31.0 trl==0.4.7 scipy
+# pip install accelerate==0.21.0 peft==0.4.0 bitsandbytes==0.40.2 transformers==4.31.0 trl==0.4.7 scipy wandb
 
 from dataclasses import dataclass, field
 from typing import Optional
@@ -22,15 +22,15 @@ from trl import SFTTrainer
 @dataclass
 class ScriptArguments:
     model_name: Optional[str] = field(
-        default="NousResearch/llama-2-7b-chat-hf",
+        default="meta-llama/Llama-2-7b",
         metadata={"help": "The model that you want to train from the Hugging Face hub"},
     )
     dataset_name: Optional[str] = field(
-        default="mlabonne/guanaco-llama2-1k",
+        default="sujantkumarkv/indian_legal_corpus",
         metadata={"help": "The instruction dataset to use"},
     )
     new_model: Optional[str] = field(
-        default="llama-2-7b-miniguanaco", metadata={"help": "Fine-tuned model name"}
+        default="legalpilot-7b-v1.0", metadata={"help": "meta-llama/Llama-2-7b Fine-tuned model to understand indian legal space."}
     )
     merge_and_push: Optional[bool] = field(
         default=True, metadata={"help": "Merge and push weights after training"}
@@ -157,7 +157,7 @@ class ScriptArguments:
 
 parser = HfArgumentParser(ScriptArguments)
 script_args = parser.parse_args_into_dataclasses()[0]
-device_map = {"": 0}
+device_map = "auto"
 
 # Load dataset (you can process it here)
 dataset = load_dataset(script_args.dataset_name, split="train")
