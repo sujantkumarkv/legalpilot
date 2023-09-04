@@ -1,0 +1,695 @@
+THE AADHAAR (TARGETED DELIVERY OF FINANCIAL  AND
+OTHER SUBSIDIES, BENEFITS AND SERVICES) ACT, 2016
+NO. 18 OF 2016
+[25th  March , 2016.]
+An Act to provide for, as a good governance, efficient, transparent, and targeted
+delivery of  subsidies, benefits and services, the expenditure for which is
+incurred from the Consolidated Fund of India, to individuals residing in India
+through assigning of unique identity numbers to such individuals and for
+matters connected therewith or incidental thereto.
+ BE it enacted by Parliament in the Sixty-seventh Year of the Republic of India as follows:
+CHAPTER I
+PRELIMINARY
+1. (1) This Act may be called the Aadhaar (Targeted Delivery of Financial and Other
+Subsidies, Benefits and Services) Act, 2016.
+(2) It shall extend to the whole of India except the State of Jammu and Kashmir and
+save as otherwise provided in this Act, it shall also apply to any offence or contraventionthereunder committed outside India by any person.
+(3) It shall come into force on such date as the Central Government may, by notification
+in the Official Gazette, appoint; and different dates may, be appointed for different provisionsof this Act and any reference in any such provision to the commencement of this Act shall be
+construed as a reference to the commencement of that provision.
+REGISTERED NO. DL(N)04/0007/200316
+MINISTRY OF LAW AND JUSTICE
+(Legislative Department)
+New Delhi, the 26th March, 2016/ Chaitra 6, 1938 ( Saka )
+The following Act of  Parliament received the assent of the President on the
+25th March, 2016,  and is hereby published for general information:
+2 THE GAZETTE OF INDIA EXTRAORDINARY [P ART II
+2.  In this Act, unless the context otherwise requires,
+(a) Aadhaar number means an identification number issued to an individual
+under sub-section ( 3) of section 3;
+(b) Aadhaar number holder means an individual who has been issued an
+Aadhaar number under this Act;
+(c) authentication means the process by which the Aadhaar number alongwith
+demographic information or biometric information of an individual is submitted to theCentral Identities Data Repository for its verification and such Repository verifiesthe correctness, or the lack thereof, on the basis of information available with it;
+(d) authentication record means the record of the time of authentication and
+identity of the requesting entity and the response provided by the Authority thereto;
+(e) Authority means the Unique Identification Authority of India established
+under sub-section ( 1) of section 11;
+(f) benefit means any advantage, gift, reward, relief, or payment, in cash or
+kind, provided to an individual or a group of individuals and includes such otherbenefits as may be notified by the Central Government;
+(g) biometric information means photograph, finger print, Iris scan, or
+such other biological attributes of an individual as may be specified by regulations;
+(h) Central Identities Data Repository means a centralised database in one or
+more locations containing all Aadhaar numbers issued to Aadhaar number holdersalong with the corresponding demographic information and biometric information ofsuch individuals and other information related thereto;
+(i) Chairperson means the Chairperson of the Authority appointed under
+section 12;
+(j) core biometric information means finger print, Iris scan, or  such other
+biological attribute of an individual as may be specified by regulations;
+(k) demographic information includes information relating to the name, date
+of birth, address and other relevant information of an individual, as may be specifiedby regulations for the purpose of issuing an Aadhaar number, but shall not includerace, religion, caste, tribe, ethnicity, language, records of entitlement, income or medicalhistory;
+(l) enrolling agency means an agency appointed by the Authority or a
+Registrar, as the case may be, for collecting demographic and biometric information ofindividuals under this Act;
+(m) enrolment means the process, as may be specified by regulations, to
+collect demographic and biometric information from individuals by the enrollingagencies for the purpose of issuing Aadhaar numbers to such individuals under thisAct;
+(n) identity information in respect of an individual, includes his Aadhaar
+number, his biometric information and his demographic information;
+(o) Member includes the Chairperson and Member of the Authority appointed
+under section 12;
+(p) notification means a notification published in the Official Gazette and the
+expression notified with its cognate meanings and grammatical variations shall beconstrued accordingly;
+(q) prescribed means prescribed by rules made by the Central Government
+under this Act;Definitions.
+SEC. 1] THE GAZETTE OF INDIA EXTRAORDINARY 3
+(r) records of entitlement means records of benefits, subsidies or services
+provided to, or availed by, any individual under any programme;
+(s) Registrar means any entity authorised or recognised by the Authority for
+the purpose of enrolling individuals under this Act;
+(t) regulations means the regulations made by the Authority under this Act;
+(u) requesting entity means an agency or person that submits the Aadhaar
+number, and demographic information or biometric information, of an individual to the
+Central Identities Data Repository for authentication;
+(v) resident means an individual who has resided in India for a period or
+periods amounting in all to one hundred and eighty-two days or more in the twelvemonths immediately preceding the date of application for enrolment;
+(w) service means any provision, facility, utility or any other assistance
+provided in any form to an individual or a group of individuals and includes suchother services as may be notified by the Central Government;
+(x) subsidy means any form of aid, support, grant, subvention, or
+appropriation, in cash or kind, to an individual or a group of individuals  and includessuch other subsidies as may be notified by the Central Government.
+CHAPTER II
+E
+NROLMENT
+3. (1) Every resident shall be entitled to obtain an Aadhaar number by submitting his
+demographic information and biometric information by undergoing the process of enrolment:
+Provided that the Central Government may, from time to time, notify such other category
+of individuals who may be entitled to obtain an Aadhaar number.
+(2) The enrolling agency shall, at the time of enrolment, inform the individual
+undergoing enrolment of the following details in such manner as may be specified byregulations, namely:
+(a) the manner in which the information shall be used;
+(b) the nature of recipients with whom the information is intended to be shared
+during authentication; and
+(c) the existence of a right to access information, the procedure for making
+requests for such access, and details of the person or department in-charge to whomsuch requests can be made.
+(3) On receipt of the demographic information and biometric information under
+sub-section ( 1), the Authority shall, after verifying the information, in such manner as may
+be specified by regulations, issue an Aadhaar number to such individual.
+4. (1) An Aadhaar number, issued to an individual shall not be re-assigned to any
+other individual.
+(2) An Aadhaar number shall be a random number and bear no relation to the attributes
+or identity of the Aadhaar number holder.
+(3) An Aadhaar number, in physical or electronic form subject to authentication and
+other conditions, as may be specified by regulations, may be accepted as proof of identityof the Aadhaar number holder for any purpose.
+Explanation.  For the purposes of this sub-section, the expression electronic
+form shall have the same meaning as assigned to it in clause ( r) of sub-section ( 1) of
+section 2 of the Information Technology Act, 2000.Aadhaarnumber.
+Properties of
+Aadhaarnumber.
+21 of 2000.
+4 THE GAZETTE OF INDIA EXTRAORDINARY [P ART II
+5. The Authority shall take special measures to issue Aadhaar number to women,
+children, senior citizens, persons with disability, unskilled and unorganised workers, nomadictribes or to such other persons who do not have any permanent dwelling house and suchother categories of individuals as may be specified by regulations.
+6. The Authority may require Aadhaar number holders to update their demographic
+information and biometric information, from time to time, in such manner as may be specifiedby regulations, so as to ensure continued accuracy of their information in the CentralIdentities Data Repository.
+CHAPTER III
+A
+UTHENTICATION
+7. The Central Government or, as the case may be, the State Government may, for the
+purpose of establishing identity of an individual as a condition for receipt of a  subsidy,benefit or service for which the expenditure is incurred from, or the receipt therefrom formspart of, the Consolidated Fund of India, require that such individual undergo authentication,or furnish proof of possession of Aadhaar number or in the case of an individual to whomno Aadhaar number has been assigned, such individual makes an application for enrolment:
+Provided that if an Aadhaar number is not assigned to an individual, the individual
+shall be offered alternate and viable means of identification for delivery of the subsidy,benefit or service.
+8. (1) The Authority shall perform authentication of the Aadhaar number of an Aadhaar
+number holder submitted by any requesting entity, in relation to his biometric informationor demographic information, subject to such conditions and on payment of such fees andin such manner as may be specified by regulations.
+(2) A requesting entity shall
+(a) unless otherwise provided in this Act, obtain the consent of an individual
+before collecting his identity information for the purposes of authentication in suchmanner as may be specified by regulations; and
+(b) ensure that the identity information of an individual is only used for
+submission to the Central Identities Data Repository for authentication.
+(3) A requesting entity shall inform, in such manner as may be specified by regulations,
+the individual submitting his identity information for authentication, the following detailswith respect to authentication, namely:
+(a) the nature of information that may be shared upon authentication;
+(b) the uses to which the information received during authentication may be
+put by the requesting entity; and
+(c) alternatives to submission of identity information to the requesting entity.
+(4) The Authority shall respond to an authentication query with a positive, negative
+or any other appropriate response sharing such identity information excluding any corebiometric information.
+9. The Aadhaar number or the authentication thereof shall not, by itself, confer any
+right of, or be proof of, citizenship or domicile in respect of an Aadhaar number holder.
+10. The Authority may engage one or more entities to establish and maintain the
+Central Identities Data Repository and to perform any other functions as may be specifiedby regulations.Specialmeasures forissuance ofAadhaarnumber tocertaincategory ofpersons.
+Update of
+certaininformation.
+Proof of
+Aadhaarnumbernecessary forreceipt ofcertainsubsidies,benefits andservices, etc.
+Authentication
+of Aadhaarnumber.
+Aadhaar
+number notevidence ofcitizenship ordomicile, etc.
+Central
+Identities DataRepository.
+SEC. 1] THE GAZETTE OF INDIA EXTRAORDINARY 5
+CHAPTER IV
+UNIQUE  IDENTIFICA TION AUTHORITY  OF INDIA
+11. (1) The Central Government shall, by notification, establish an Authority to be
+known as the Unique Identification Authority of India to be responsible for the processesof enrolment and authentication and perform such other functions assigned to it under thisAct.
+(2) The Authority shall be a body corporate by the name aforesaid, having perpetual
+succession and a common seal, with power, subject to the provisions of this Act, to acquire,hold and dispose of property, both movable and immovable, and to contract, and shall, bythe said name, sue or be sued.
+(3) The head office of the Authority shall be in New Delhi.
+(4) The Authority may, with the prior approval of the Central Government, establish
+its offices at other places in India.
+12. The Authority shall consist of a Chairperson, appointed on part-time or
+full- time basis, two part-time Members, and the chief executive officer who shall be Member-Secretary of the Authority, to be appointed by the Central Government.
+13. The Chairperson and Members of the Authority shall be persons of ability and
+integrity having experience and knowledge of at least ten years in matters relating totechnology, governance, law, development, economics, finance, management, public affairsor administration.
+14. (1) The Chairperson and the Members appointed under this Act shall hold office
+for a term of three years from the date on which they assume office and shall be eligible forre-appointment:
+Provided that no person shall hold office as the Chairperson or Member after he has
+attained the age of sixty-five years.
+(2) The Chairperson and every Member shall, before entering office, make and subscribe
+to, an oath of office and of secrecy, in such form and in such manner and before suchAuthority as may be prescribed.
+(3) Notwithstanding anything contained in sub-section ( 1), the Chairperson or Member
+may
+(a) relinquish his office, by giving in writing to the Central Government, a notice
+of not less than thirty days; or
+(b) be removed from his office in accordance with the provisions of section 15.
+(4) The salaries and allowances payable to, and the other terms and conditions of
+service of, the Chairperson and allowances or remuneration payable to part-time Membersshall be such as may be prescribed.
+15. (1) The Central Government may remove from office, the Chairperson, or a Member,
+who
+(a) is, or at any time has been adjudged as insolvent;
+(b) has become physically or mentally incapable of acting as the Chairperson
+or, as the case may be, a Member;
+(c) has been convicted of an offence which, in the opinion of the Central
+Government, involves moral turpitude;
+(d) has acquired such financial or other interest as is likely to affect prejudicially
+his functions as the Chairperson or, as the case may be, a Member; orEstablishmentof Authority.
+Composition
+of Authority.
+Qualifications
+forappointmentofChairpersonand Membersof Authority.
+Term of
+office andotherconditions ofservice ofChairpersonand Members.
+Removal of
+Chairpersonand Members.
+6 THE GAZETTE OF INDIA EXTRAORDINARY [P ART II
+(e) has, in the opinion of the Central Government, so abused his position as to
+render his continuance in office detrimental to the public interest.
+(2) The Chairperson or a Member shall not be removed under clause ( b), clause ( d) or
+clause ( e) of sub-section ( 1) unless he has been given a reasonable opportunity of being heard.
+16. The Chairperson or a Member on ceasing to hold office for any reason, shall not,
+without previous approval of the Central Government,
+(a) accept any employment in, or be connected with the management of any
+organisation, company or any other entity which has been associated with any workdone or contracted out by the Authority, whether directly or indirectly, during histenure as Chairperson or Member, as the case may be, for a period of three years fromthe date on which he ceases to hold office:
+Provided that nothing contained in this clause shall apply to any employment
+under the Central Government or a State Government or local authority or in anystatutory authority or any corporation established by or under any Central, State orprovincial Act or a Government Company, as defined in clause ( 45) of section 2 of the
+Companies Act, 2013;
+(b) act, for or on behalf of any person or organisation in connection with any
+specific proceeding or transaction or negotiation or a case to which the Authority isa party and with respect to which the Chairperson or such Member had, beforecessation of office, acted for or provided advice to, the Authority;
+(c) give advice to any person using information which was obtained in his
+capacity as the Chairperson or a Member and being unavailable to or not being ableto be made available to the public; or
+(d) enter, for a period of three years from his last day in office, into a contract of
+service with, accept an appointment to a board of directors of, or accept an offer ofemployment with, an entity with which he had direct and significant official dealingsduring his term of office.
+17. The Chairperson shall preside over the meetings of the Authority, and without
+prejudice to any provision of this Act, exercise and discharge such other powers andfunctions of the Authority as may be prescribed.
+18. (1) There shall be a chief executive officer of the Authority, not below the rank of
+Additional Secretary to the Government of India, to be appointed by the Central Government.
+(2) The chief executive officer shall be the legal representative of the Authority and
+shall be responsible for
+(a) the day-to-day administration of the Authority;
+(b) implementing the work programmes and decisions adopted by the Authority;
+(c) drawing up of proposal for the Authoritys decisions and work programmes;
+(d) the preparation of the statement of revenue and expenditure and the execution
+of the budget of the Authority; and
+(e) performing such other functions, or exercising such other powers, as may be
+specified by regulations.
+(3) Every year, the chief executive officer shall submit to the Authority for approval
+(a) a general report covering all the activities of the Authority in the previous
+year;
+(b) programmes of work;
+(c) the annual accounts for the previous year; and
+(d) the budget for the coming year.Restrictions
+onChairpersonor Membersonemploymentafter cessationof office.
+18 of 2013.
+Functions of
+Chairperson.
+Chief
+executiveofficer.
+SEC. 1] THE GAZETTE OF INDIA EXTRAORDINARY 7
+(4) The chief executive officer shall have administrative control over the officers and
+other employees of the Authority.
+19. (1) The Authority shall meet at such times and places and shall observe such rules
+of procedure in regard to the transaction of business at its meetings, including quorum atsuch meetings, as may be specified by regulations.
+(2) The Chairperson, or, if for any reason, he is unable to attend a meeting of the
+Authority, the senior most Member shall preside over the meetings of the Authority.
+(3) All questions which come up before any meeting of the Authority shall be decided
+by a majority of votes by the Members present and voting and in the event of an equalityof votes, the Chairperson or in his absence the presiding Member shall have a casting vote.
+(4) All decisions of the Authority shall be signed by the Chairperson or any other
+Member or the Member-Secretary authorised by the Authority in this behalf.
+(5) If any Member, who is a director of a company and who as such director, has any
+direct or indirect pecuniary interest in any manner coming up for consideration at a meetingof the Authority, he shall, as soon as possible after relevant circumstances have come to hisknowledge, disclose the nature of his interest at such meeting and such disclosure shall berecorded in the proceedings of the Authority, and the Member shall not take part in anydeliberation or decision of the Authority with respect to that matter.
+20. No act or proceeding of the Authority shall be invalid merely by reason of
+(a) any vacancy in, or any defect in the constitution of, the Authority;
+(b) any defect in the appointment of a person as Chairperson or Member of the
+Authority; or
+(c) any irregularity in the procedure of the Authority not affecting the merits of
+the case.
+21. (1) The Authority may, with the approval of the Central Government, determine
+the number, nature and categories of other officers and employees required by the Authorityin the discharge of its functions.
+(2) The salaries and allowances payable to, and the other terms and conditions of
+service of, the chief executive officer and other officers and other employees of the Authorityshall be such as may be specified by regulations with the approval of the Central Government.
+22. On and from the establishment of the Authority
+(a) all the assets and liabilities of the Unique Identification Authority of India,
+established vide notification of the Government of India in the Planning Commission
+number A-43011/02/2009-Admin. I, dated the 28th January, 2009, shall stand transferredto, and vested in, the Authority.
+Explanation .The assets of such Unique Identification Authority of India
+shall be deemed to include all rights and powers, and all properties, whether movableor immovable, including, in particular, cash balances, deposits and all other interestsand rights in, or arising out of, such properties as may be in the possession of suchUnique Identification Authority of India and all books of account and other documentsrelating to the same; and liabilities shall be deemed to include all debts, liabilities andobligations of whatever kind;
+(b) without prejudice to the provisions of  clause ( a), all data and information
+collected during enrolment, all details of authentication performed, debts, obligationsand liabilities incurred, all contracts entered into and all matters and things engagedto be done by, with or for such Unique Identification Authority of India immediatelybefore that day, for or in connection with the purpose of the said Unique IdentificationAuthority of India, shall be deemed to have been incurred, entered into or engaged tobe done by, with or for, the Authority;Meetings ofAuthority.
+Vacancies,
+etc., not toinvalidateproceedingsof Authority.
+Officers and
+otheremployees ofAuthority.
+Transfer of
+assets,liabilities ofAuthority.
+8 THE GAZETTE OF INDIA EXTRAORDINARY [P ART II
+(c) all sums of money due to the said Unique Identification Authority of India
+immediately before that day shall be deemed to be due to the Authority; and
+(d) all suits and other legal proceedings instituted or which could have been
+instituted by or against such Unique Identification Authority of India immediatelybefore that day may be continued or may be instituted by or against the Authority.
+23. (1) The Authority shall develop the policy, procedure and systems for issuing
+Aadhaar numbers to individuals and perform authentication thereof under this Act.
+(2) Without prejudice to sub-section ( 1), the powers and functions of the Authority,
+inter alia,  include
+(a) specifying, by regulations, demographic information and biometric
+information required for enrolment and the processes for collection and verificationthereof;
+(b) collecting demographic information and biometric information from any
+individual seeking an Aadhaar number in such manner as may be specified byregulations;
+(c) appointing of one or more entities to operate the Central Identities Data
+Repository;
+(d) generating and assigning Aadhaar numbers to individuals;
+(e) performing authentication of Aadhaar numbers;
+(f) maintaining and updating the information of individuals in the Central Identities
+Data Repository in such manner as may be specified by regulations;
+(g) omitting and deactivating of an Aadhaar number and information relating
+thereto in such manner as may be specified by regulations;
+(h) specifying the manner of use of Aadhaar numbers for the purposes of
+providing or availing of various subsidies, benefits, services and other purposes forwhich Aadhaar numbers may be used;
+(i) specifying, by regulations, the terms and conditions for appointment of
+Registrars, enrolling agencies and service providers and revocation of appointmentsthereof;
+(j) establishing, operating and maintaining of the Central Identities Data
+Repository;
+(k) sharing, in such manner as may be specified by regulations, the information
+of Aadhaar number holders, subject to the provisions of this Act;
+(l) calling for information and records, conducting inspections, inquiries and
+audit of the operations for the purposes of this Act of the Central Identities DataRepository, Registrars, enrolling agencies and other agencies appointed under thisAct;
+(m) specifying, by regulations, various processes relating to data management,
+security protocols and other technology safeguards under this Act;
+(n) specifying, by regulations, the conditions and procedures for issuance of
+new Aadhaar number to existing Aadhaar number holder;
+(o) levying and collecting the fees or authorising the Registrars, enrolling
+agencies or other service providers to collect such fees for the services provided bythem under this Act in such manner as may be specified by regulations;
+(p) appointing such committees as may be necessary to assist the Authority in
+discharge of its functions for the purposes of this Act;
+(q) promoting research and development for advancement in biometrics and
+related areas, including usage of Aadhaar numbers through appropriate mechanisms;Powers andfunctions ofAuthority.
+SEC. 1] THE GAZETTE OF INDIA EXTRAORDINARY 9
+(r) evolving of, and specifying, by regulations, policies and practices for
+Registrars, enrolling agencies and other service providers;
+(s) setting up facilitation centres and grievance redressal mechanism for redressal
+of grievances of individuals, Registrars, enrolling agencies and other service providers;
+(t) such other powers and functions as may be prescribed.
+(3) The Authority may,
+(a) enter into Memorandum of Understanding or agreement, as the case may
+be, with the Central Government or State Governments or Union territories or otheragencies for the purpose of performing any of the functions in relation to collecting,storing, securing or processing of information or delivery of Aadhaar numbers toindividuals or performing authentication;
+(b) by notification, appoint such number of Registrars, engage and authorise
+such agencies to collect, store, secure, process information or do authentication orperform such other functions in relation thereto,
+as may be necessary for the purposes of this Act.
+(4) The Authority may engage such consultants, advisors and other persons as may
+be required for efficient discharge of its functions under this Act on such allowances orremuneration and terms and conditions as may be specified by contract.
+CHAPTER V
+G
+RANTS , ACCOUNTS  AND AUDIT  AND ANNUAL  REPORT
+24. The Central Government may, after due appropriation made by Parliament by law
+in this behalf, make to the Authority, grants of such sums of money as the Central Governmentmay think fit for being utilised for the purposes of this Act.
+25. The fees or revenue collected by the Authority shall be credited to the Consolidated
+Fund of India.
+26. (1) The Authority shall maintain proper accounts and other relevant records and
+prepare an annual statement of accounts in such form as may be prescribed by the CentralGovernment in consultation with the Comptroller and Auditor-General of India.
+(2) The accounts of the Authority shall be audited annually by the Comptroller and
+Auditor-General of India at such intervals as may be specified by him and any expenditureincurred in connection with such audit shall be payable by the Authority to the Comptrollerand Auditor-General.
+(3) The Comptroller and Auditor-General of India and any person appointed by him in
+connection with the audit the accounts of the Authority under this Act shall have the samerights and privileges and authority in connection with such audit as the Comptroller andAuditor-General generally has in connection with the audit of Government accounts, and inparticular, shall have the right to demand production of books, accounts, connected vouchersand other documents and papers, and to inspect any of the offices of the Authority.
+(4) The accounts of the Authority, as certified by the Comptroller and Auditor-General
+of India or any other person appointed by him in this behalf, together with the audit reportthereon shall be forwarded annually to the Central Government by the Authority and theCentral Government shall cause the audit report to be laid, as soon as may be after it isreceived, before each House of Parliament.
+27.  (1) The Authority shall furnish to the Central Government at such time and in
+such form and manner as may be prescribed or as the Central Government may direct, suchreturns and statements and particulars in regard to any matter under the jurisdiction of theAuthority, as the Central Government may from time to time require.Grants byCentralGovernment.
+Other fees
+and revenues.
+Accounts and
+audit.
+Returns and
+annual report,etc.
+10 THE GAZETTE OF INDIA EXTRAORDINARY [P ART II
+(2) The Authority shall prepare, once in every year, and in such form and manner and
+at such time as may be prescribed, an annual report giving
+(a) a description of all the activities of the Authority for the previous years;
+(b) the annual accounts for the previous year; and
+(c)  the programmes of work for coming year.
+(3) A copy of the report received under sub-section ( 2) shall be laid by the Central
+Government, as soon as may be after it is received, before each House of Parliament.
+CHAPTER VI
+PROTECTION  OF INFORMATION
+28. (1) The Authority shall ensure the security of identity information and
+authentication records of individuals.
+(2) Subject to the provisions of this Act, the Authority shall ensure confidentiality of
+identity information and authentication records of individuals.
+(3) The Authority shall take all necessary measures to ensure that the information in
+the possession or control of the Authority, including information stored in the CentralIdentities Data Repository, is secured and protected against access, use or disclosure notpermitted under this Act or regulations made thereunder, and against accidental or intentionaldestruction, loss or damage.
+(4) Without prejudice to sub-sections ( 1) and ( 2), the Authority shall
+(a) adopt and implement appropriate technical and organisational security
+measures;
+(b) ensure that the agencies, consultants, advisors or other persons appointed
+or engaged for performing any function of the Authority under this Act, have in placeappropriate technical and organisational security measures for the information; and
+(c) ensure that the agreements or arrangements entered into with such agencies,
+consultants, advisors or other persons, impose obligations equivalent to thoseimposed on the Authority under this Act, and require such agencies, consultants,advisors and other persons to act only on instructions from the Authority.
+(5) Notwithstanding anything contained in any other law for the time being in force,
+and save as otherwise provided in this Act, the Authority or any of its officers or otheremployees or any agency that maintains the Central Identities Data Repository shall not,whether during his service or thereafter, reveal any information stored in the Central IdentitiesData Repository or authentication record to anyone:
+Provided that an Aadhaar number holder may request the Authority to provide access
+to his identity information excluding his core biometric information in such manner as maybe specified by regulations.
+29. (1) No core biometric information, collected or created under this Act, shall be
+(a) shared with anyone for any reason whatsoever; or
+(b) used for any purpose other than generation of Aadhaar numbers and
+authentication under this Act.
+(2) The identity information, other than core biometric information, collected or created
+under this Act may be shared only in accordance with the provisions of  this Act and insuch manner as may be specified by regulations.
+(3) No identity information available with a requesting entity shall be
+(a) used for any purpose, other than that specified to the individual at the time
+of submitting any identity information for authentication; orSecurity andconfidentialityofinformation.
+Restriction on
+sharinginformation.
+SEC. 1] THE GAZETTE OF INDIA EXTRAORDINARY 11
+(b) disclosed further, except with the prior consent of the individual to whom
+such information relates.
+(4) No Aadhaar number or core biometric information collected or created under this
+Act in respect of an Aadhaar number holder shall be published, displayed or posted publicly,except for the purposes as may be specified by regulations.
+30. The biometric information collected and stored in electronic form, in accordance
+with this Act and regulations made thereunder, shall be deemed to be electronic recordand sensitive personal data or information, and the provisions contained in the InformationTechnology Act, 2000 and the rules made thereunder shall apply to such information, inaddition to, and to the extent not in derogation of the provisions of this Act.
+Explanation.  For the purposes of this section, the expressions
+(a) electronic form shall have the same meaning as assigned to it in clause ( r)
+of sub-section ( 1) of section 2 of the Information Technology Act, 2000;
+(b) electronic record shall have the same meaning as assigned to it in
+clause ( t) of sub-section ( 1) of section 2 of the Information Technology Act, 2000;
+(c) sensitive personal data or information shall have the same meaning as
+assigned to it in clause ( iii) of the Explanation  to section 43A of the Information
+Technology Act, 2000.
+31. (1) In case any demographic information of an Aadhaar number holder is found
+incorrect or changes subsequently, the Aadhaar number holder shall request the Authorityto alter such demographic information in his record in the Central Identities Data Repositoryin such manner as may be specified by regulations.
+(2) In case any biometric information of Aadhaar number holder is lost or changes
+subsequently for any reason, the Aadhaar number holder shall request the Authority tomake necessary alteration in his record in the Central Identities Data Repository in suchmanner as may be specified by regulations.
+(3) On receipt of any request under sub-section ( 1) or sub-section ( 2), the Authority
+may, if it is satisfied, make such alteration as may be required in the record relating to suchAadhaar number holder and intimate such alteration to the concerned Aadhaar numberholder.
+(4) No identity information in the Central Identities Data Repository shall be altered
+except in the manner provided in this Act or regulations made in this behalf.
+32. (1) The Authority shall maintain authentication records in such manner and for
+such period as may be specified by regulations.
+(2) Every Aadhaar number holder shall be entitled to obtain his authentication record
+in such manner as may be specified by regulations.
+(3) The Authority shall not, either by itself or through any entity under its control,
+collect, keep or maintain any information about the purpose of authentication.
+33. (1) Nothing contained in sub-section ( 2) or sub-section ( 5) of section 28 or
+sub-section ( 2) of section 29 shall apply in respect of any disclosure of information, including
+identity information or authentication records, made pursuant to an order of a court notinferior to that of a District Judge:
+Provided that no order by the court under this sub-section shall be made without
+giving an opportunity of hearing to the Authority.
+(2) Nothing contained in sub-section ( 2) or sub-section ( 5) of section 28 and
+clause ( b) of sub-section ( 1), sub-section ( 2) or sub-section (
+3) of section 29 shall apply in
+respect of any disclosure of information, including identity information or authentication21 of 2000.Biometric
+informationdeemed to besensitivepersonalinformation.
+Alteration of
+demographicinformationor biometricinformation.
+Access to
+owninformationand records ofrequests forauthentication.
+Disclosure of
+informationin certaincases.21 of 2000.
+21 of 2000.21 of 2000.
+12 THE GAZETTE OF INDIA EXTRAORDINARY [P ART II
+records, made in the interest of national security in pursuance of a direction of an officer not
+below the rank of Joint Secretary to the Government of India specially authorised in thisbehalf by an order of the Central Government:
+Provided that every direction issued under this sub-section, shall be reviewed by an
+Oversight Committee consisting of the Cabinet Secretary and the Secretaries to theGovernment of India in the Department of Legal Affairs and the Department of Electronicsand Information Technology, before it takes effect:
+Provided further that any direction issued under this sub-section shall be valid for a
+period of three months from the date of its issue, which may be extended for a further periodof three months after the review by the Oversight Committee.
+CHAPTER VII
+O
+FFENCES  AND PENALTIES
+34. Whoever impersonates or attempts to impersonate another person, whether dead
+or alive, real or imaginary, by providing any false demographic information or biometricinformation, shall be punishable with imprisonment for a term which may extend to threeyears or with a fine which may extend to ten thousand rupees or with both.
+35. Whoever, with the intention of causing harm or mischief to an Aadhaar number
+holder, or with the intention of appropriating the identity of an Aadhaar number holder
+changes or attempts to change any demographic information or biometric information of anAadhaar number holder by impersonating or attempting to impersonate another person,dead or alive, real or imaginary, shall be punishable with imprisonment for a term which mayextend to three years and shall also be liable to a fine which may extend to ten thousandrupees.
+36. Whoever, not being authorised to collect identity information under the provisions
+of this Act, by words, conduct or demeanour pretends that he is authorised to do so, shallbe punishable with imprisonment for a term which may extend to three years or with a finewhich may extend to ten thousand rupees or, in the case of a company, with a fine whichmay extend to one lakh rupees or with both.
+37. Whoever, intentionally discloses, transmits, copies or otherwise disseminates
+any identity information collected in the course of enrolment or authentication to anyperson not authorised under this Act or regulations made thereunder or in contravention ofany agreement or arrangement entered into pursuant to the provisions of this Act, shall bepunishable with imprisonment for a term which may extend to three years or with a finewhich may extend to ten thousand rupees or, in the case of a company, with a fine whichmay extend to one lakh rupees or with both.
+38. Whoever, not being authorised by the Authority, intentionally,
+(a) accesses or secures access to the Central Identities Data Repository;
+(b) downloads, copies or extracts any data from the Central Identities Data
+Repository or stored in any removable storage medium;
+(c) introduces or causes to be introduced any virus or other computer
+contaminant in the Central Identities Data Repository;
+(d) damages or causes to be damaged the data in the Central Identities Data
+Repository;
+(e) disrupts or causes disruption of the access to the Central Identities Data
+Repository;
+(f) denies or causes a denial of access to any person who is authorised to
+access the Central Identities Data Repository;Penalty forimpersonationat time ofenrolment.
+Penalty for
+impersonationof Aadhaarnumber holderby changingdemographicinformationor biometricinformation.
+Penalty for
+impersonation.
+Penalty for
+disclosingidentityinformation.
+Penalty for
+unauthorisedaccess to theCentralIdentitiesDataRepository.
+SEC. 1] THE GAZETTE OF INDIA EXTRAORDINARY 13
+(g) reveals any information in contravention of sub-section ( 5) of section 28, or
+shares, uses or displays information in contravention of section 29 or assists anyperson in any of the aforementioned acts;
+(h) destroys, deletes or alters any information stored in any removable storage
+media or in the Central Identities Data Repository or diminishes its value or utility oraffects it injuriously by any means; or
+(i) steals, conceals, destroys or alters or causes any person to steal, conceal,
+destroy or alter any computer source code used by the Authority with an intention tocause damage,
+shall be punishable with imprisonment for a term which may extend to three years and shall
+also be liable to a fine which shall not be less than ten lakh rupees.
+Explanation. For the purposes of this section, the expressions computer
+contaminant, computer virus and damage shall have the meanings respectivelyassigned to them in the Explanation  to section 43 of the Information Technology Act, 2000,
+and the expression computer source code shall have the meaning assigned to it in theExplanation  to section 65 of the said Act.
+39. Whoever, not being authorised by the Authority, uses or tampers with the data in
+the Central Identities Data Repository or in any removable storage medium with the intentof modifying information relating to Aadhaar number holder or discovering any informationthereof, shall be punishable with imprisonment for a term which may extend to three yearsand shall also be liable to a fine which may extend to ten thousand rupees.
+40. Whoever, being a requesting entity, uses the identity information of an individual
+in contravention of sub-section ( 3) of section 8, shall be punishable with imprisonment
+which may extend to three years or with a fine which may extend to ten thousand rupees or,in the case of a company, with a fine which may extend to one lakh rupees or with both.
+41. Whoever, being an enrolling agency or a requesting entity, fails to comply with
+the requirements of sub-section ( 2) of section 3 or sub-section ( 3) of section 8, shall be
+punishable with imprisonment which may extend to one year or with a fine which mayextend to ten thousand rupees or, in the case of a company, with a fine which may extend toone lakh rupees or with both.
+42. Whoever commits an offence under this Act or any rules or regulations made
+thereunder for which no specific penalty is provided elsewhere than this section, shall bepunishable with imprisonment for a term which may extend to one year or with a fine whichmay extend to twenty-five thousand rupees or, in the case of a company, with a fine whichmay extend to one lakh rupees, or with both.
+43. (1) Where an offence under this Act has been committed by a company, every
+person who at the time the offence was committed was in charge of, and was responsible to,the company for the conduct of the business of the company, as well as the company, shallbe deemed to be guilty of the offence and shall be liable to be proceeded against andpunished accordingly:
+Provided that nothing contained in this sub-section shall render any such person
+liable to any punishment provided in this Act if he proves that the offence was committedwithout his knowledge or that he had exercised all due diligence to prevent the commissionof such offence.
+(2) Notwithstanding anything contained in sub-section ( 1), where any offence under
+this Act has been committed by a company and it is proved that the offence has beencommitted with the consent or connivance of, or is attributable to, any neglect on the partof any director, manager, secretary or other officer of the company, such director, manager,secretary or other officer shall also be deemed to be guilty of the offence and shall be liableto be proceeded against and punished accordingly.21 of 2000.
+Penalty for
+tamperingwith data inCentralIdentitiesDataRepository.
+Penalty for
+unauthoriseduse byrequestingentity.
+Penalty for
+non-compliancewithintimationrequirements.
+General
+penalty.
+Offences by
+companies.
+14 THE GAZETTE OF INDIA EXTRAORDINARY [P ART II
+Explanation. For the purposes of this section
+(a) company means any body corporate and includes a firm or other
+association of individuals; and
+(b) director, in relation to a firm, means a partner in the firm.
+44. (1) Subject to the provisions of sub-section ( 2), the provisions of this Act shall
+apply also to any offence or contravention committed outside India by any person,irrespective of his nationality.
+(2) For the purposes of sub-section ( 1), the provisions of this Act shall apply to any
+offence or contravention committed outside India by any person, if the act or conductconstituting the offence or contravention involves any data in the Central Identities DataRepository.
+45. Notwithstanding anything contained in the Code of Criminal Procedure, 1973, a
+police officer not below the rank of Inspector of Police shall investigate any offence underthis Act.
+46. No penalty imposed under this Act shall prevent the imposition of any other
+penalty or punishment under any other law for the time being in force.
+47. (1) No court shall take cognizance of any offence punishable under this Act, save
+on a complaint made by the Authority or any officer or person authorised by it.
+(2) No court inferior to that of a Chief Metropolitan Magistrate or a Chief Judicial
+Magistrate shall try any offence punishable under this Act.
+CHAPTER VIII
+M
+ISCELLANEOUS
+48. (1) If, at any time, the Central Government is of the opinion,
+(a)  that, on account of circumstances beyond the control  of  the Authority,  it
+is  unable to discharge the functions or  perform  the  duties imposed on it by or underthe provisions of this Act;  or
+(b)  that the Authority has persistently defaulted in complying with any direction
+given by the Central Government under this Act or in the discharge of the functionsor performance of the duties imposed on it by or under the provisions of this Act andas a result of such default the financial position of the Authority or the administrationof  the Authority has suffered;  or
+(c)  that a public emergency exists,
+the Central Government may, by notification, supersede the Authority for such period, not
+exceeding  six months,  as  may  be  specified  in  the notification  and  appoint a person orpersons as the President may direct to exercise powers and discharge functions under thisAct:
+Provided that before issuing any such notification, the  Central Government  shall
+give a reasonable opportunity to the  Authority  to make  representations  against  theproposed  supersession  and  shall consider the representations, if any, of the Authority.
+(2) Upon the publication of a notification under sub-section ( 1), superseding the
+Authority,
+(a)  the Chairperson and other Members shall, as from the date of supersession,
+vacate their offices as such;
+(b) all the powers, functions and duties which may, by or under the provisions
+of this Act, be exercised or discharged by or on behalf of the Authority shall, until theAct to applyfor offence orcontraventioncommittedoutside India.
+2 of 1974. Power to
+investigateoffences.
+Penalties not
+to interferewith otherpunishments.
+Cognizance of
+offences.
+Power of
+CentralGovernmentto supersedeAuthority.
+SEC. 1] THE GAZETTE OF INDIA EXTRAORDINARY 15
+Authority is reconstituted under sub-section ( 3), be exercised and discharged by the
+person or persons referred to in sub-section ( 1); and
+(c) all properties owned or controlled by the Authority shall, until the Authority
+is reconstituted under sub-section ( 3), vest in the Central Government.
+(3)  On or before the expiration of the period of supersession specified in the notification
+issued under sub-section ( 1), the Central Government shall reconstitute the Authority by a
+fresh appointment of its Chairperson and other Members and in such case any person whohad vacated his office under clause ( a) of sub-section ( 2) shall not be deemed to be
+disqualified for reappointment.
+(4) The Central Government shall cause a copy of the notification issued under
+sub-section ( 1) and a full report of any action taken under this section and the circumstances
+leading to such action to be laid before each House of Parliament at the earliest.
+49. The Chairperson, Members, officers and other employees of the Authority shall
+be deemed, while acting or purporting to act in pursuance of any of the provisions of thisAct, to be public servants within the meaning of section 21 of the Indian Penal Code.
+50. (1) Without prejudice to the foregoing provisions of this Act, the Authority shall,
+in exercise of its powers or the performance of its functions under this Act be bound bysuch directions on questions of policy, as the Central Government may give, in writing to it,from time to time:
+Provided that the Authority shall, as far as practicable, be given an opportunity to
+express its views before any direction is given under this sub-section:
+Provided further that nothing in this section shall empower the Central Government
+to issue directions pertaining to technical or administrative matters undertaken by theAuthority.
+(2) The decision of the Central Government, whether a question is one of policy or
+not, shall be final.
+51. The Authority may, by general or special order in writing, delegate to any Member,
+officer of the Authority or any other person, subject to such conditions, if any, as may bespecified in the order, such of its powers and functions under this Act (except the powerunder section 54) as it may deem necessary.
+52. No suit, prosecution or other legal proceeding shall lie against the Central
+Government or the Authority or the Chairperson or any Member or any officer, or otheremployees of the Authority for anything which is in good faith done or intended to be doneunder this Act or the rule or regulation made thereunder.
+53. (1) The Central Government may, by notification, make rules to carry out the
+provisions of this Act.
+(2) In particular, and without prejudice to the generality of the foregoing power, such
+rules may provide for all or any of the following matters, namely:
+(a) the form and manner in which and the authority before whom the oath of
+office and of secrecy is to be subscribed by the Chairperson and Members undersub-section ( 2) of section 14;
+(b) the salary and allowances payable to, and other terms and conditions of
+service of, the Chairperson and the allowances or remuneration payable to Membersof the Authority under sub-section ( 4) of section 14;
+(c) the other powers and functions of the Chairperson of the Authority under
+section 17;
+(d) the other powers and functions of the Authority under clause ( t) of
+sub-section ( 2) of section 23;45 of 1860.Members,
+officers, etc.,to be publicservants.
+Power of
+CentralGovernmentto issuedirections.
+Delegation.
+Protection of
+action takenin good faith.
+Power of
+CentralGovernmentto make rules.
+16 THE GAZETTE OF INDIA EXTRAORDINARY [P ART II
+(e) the form of annual statement of accounts to be prepared by Authority under
+sub-section ( 1) of section 26;
+(f) the form and the manner in which and the time within which returns and
+statements and particulars are to be furnished under sub-section ( 1) of section 27;
+(g) the form and the manner and the time at which the Authority shall furnish
+annual report under sub-section ( 2) of section 27;
+(h) any other matter which is required to be, or may be, prescribed, or in respect
+of which provision is to be or may be made by rules.
+54. (1) The Authority may, by notification, make regulations consistent with this Act
+and the rules made thereunder, for carrying out the provisions of this Act.
+(2) In particular, and without prejudice to the generality of the foregoing power, such
+regulations may provide for all or any of the following matters, namely:
+(a) the biometric information under clause ( g) and the demographic information
+under clause ( k), and the process of collecting demographic information and biometric
+information from the individuals by enrolling agencies under clause ( m) of section 2;
+(b) the manner of verifying the demographic information and biometric
+information for issue of Aadhaar number under sub-section ( 3) of section 3;
+(c) the conditions for accepting an Aadhaar number as proof of identity of the
+Aadhaar number holder under sub-section ( 3) of section 4;
+(d) the other categories of individuals under section 5 for whom the Authority
+shall take special measures for allotment of Aadhaar number;
+(e) the manner of updating biometric information and demographic information
+under section 6;
+(f) the procedure for authentication of the Aadhaar number under section 8;
+(g) the other functions to be performed by the Central Identities Data Repository
+under section 10;
+(h) the time and places of meetings of the Authority and the procedure for
+transaction  of  business to be followed by it, including the quorum, undersub-section ( 1) of section 19;
+(i) the salary and allowances payable to, and other terms and conditions of
+service of, the chief executive officer, officers and other employees of the Authorityunder sub-section ( 2) of section 21;
+(j) the demographic information and biometric information under clause ( a) and
+the manner of their collection under clause ( b) of sub-section ( 2) of section 23;
+(k) the manner of maintaining and updating the information of individuals in the
+Central Identities Data Repository under clause ( f) of sub-section ( 2) of section 23;
+(
+l) the manner of omitting and deactivating an Aadhaar number and information
+relating thereto under clause ( g) of sub-section ( 2) of section 23;
+(m) the manner of use of Aadhaar numbers for the purposes of providing or
+availing of various  subsidies, benefits, services and other purposes for which Aadhaarnumbers may be used under clause ( h) of sub-section ( 2) of section 23;
+(n) the terms and conditions for appointment of Registrars, enrolling agencies
+and other service providers and the revocation of appointments thereof underclause ( i) of sub-section ( 2) of section 23;
+(o) the manner of sharing information of Aadhaar number holder under
+clause ( k) of sub-section ( 2) of section 23;Power of
+Authority tomakeregulations
+SEC. 1] THE GAZETTE OF INDIA EXTRAORDINARY 17
+(p) various processes relating to data management, security protocol and other
+technology safeguards under clause ( m) of sub-section ( 2) of section 23;
+(q) the procedure for issuance of new Aadhaar number to existing Aadhaar
+number holder under clause ( n) of sub-section ( 2) of section 23;
+(r) manner of authorising Registrars, enrolling agencies or other service
+providers to collect such fees for services provided by them under clause ( o) of
+sub-section ( 2) of section 23;
+(s) policies and practices to be followed by the Registrar, enrolling agencies and
+other service providers under clause ( r) of sub-section ( 2) of section 23;
+(t) the manner of accessing the identity information by the Aadhaar number
+holder under the proviso to sub-section ( 5) of section 28;
+(u) the manner of sharing the identity information, other than core biometric
+information, collected or created under this Act under sub-section ( 2) of section 29;
+(v) the manner of alteration of demographic information under sub-section ( 1)
+and biometric information under sub-section ( 2) of section 31;
+(w) the manner of and the time for maintaining the request for authentication
+and the response thereon under sub-section ( 1), and the manner of obtaining, by the
+Aadhaar number holder, the authentication records under sub-section ( 2) of
+section 32;
+(x) any other matter which is required to be, or may be, specified, or in respect
+of which provision is to be or may be made by regulations.
+55. Every rule and  every regulation made under this Act shall be laid, as soon as may
+be after it is made, before each House of Parliament, while it is in session, for a total periodof thirty days which may be comprised in one session or in two or more successive sessions,and if, before the expiry of the session immediately following the session or the successivesessions aforesaid, both Houses agree in making any modification in the rule or regulation,or both the Houses agree that the rule or regulation should not be made, the rule or regulationshall thereafter have effect only in such modified form or be of no effect, as the case may be;so, however, that any such modification or annulment shall be without prejudice to thevalidity of anything previously done under that rule or regulation.
+56. The provisions of this Act shall be in addition to, and not in derogation of, any
+other law for the time being in force.
+57.Nothing contained in this Act shall prevent the use of Aadhaar number for
+establishing the identity of an individual for any purpose, whether by the State or any bodycorporate or person, pursuant to any law, for the time being in force, or any contract to thiseffect:
+Provided that the use of Aadhaar number under this section shall be subject to the
+procedure and obligations under section 8 and Chapter VI.
+58. (1) If any difficulty arises in giving effect to the provisions of this Act, the Central
+Government may, by order, published in the Official Gazette, make such provisions notinconsistent with the provisions of this Act as may appear to be necessary for removing thedifficulty:
+Provided that no such order shall be made under this section after the expiry of three
+years from the commencement of this Act.
+(2) Every order made under this section shall be laid, as soon as may be after it is
+made, before each House of Parliament.Laying ofrules andregulationsbeforeParliament.
+Application of
+other laws notbarred.
+Act not to
+prevent useof Aadhaarnumber forotherpurposesunder law.
+Power to
+removedifficulties.
+59. Anything done or any action taken by the Central Government under the
+Resolution of the Government of India, Planning Commission bearing notification numberA-43011/02/2009-Admin. I, dated the 28th January, 2009, or by the Department of Electronics
+and Information Technology under the Cabinet Secretariat Notification bearing notificationnumber S.O. 2492( E), dated the 12th September, 2015, as the case may be, shall be deemed to
+have been validly done or taken under this Act.
+
+DR. REETA V ASISHTA,
+Additional Secy. to the Govt. of  India.Savings.
+GMGIPMRND5326GI(S3)26-03-2016.PRINTED BY THE GENERAL MANAGER, GOVERNMENT OF INDIA PRESS, MINTO ROAD,  NEW DELHI
+AND PUBLISHED BY THE CONTROLLER OF  PUBLICATIONS, DELHI2016.18 THE GAZETTE OF INDIA EXTRAORDINARY [P ART IIS EC. 1]
