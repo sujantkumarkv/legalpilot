@@ -69,7 +69,7 @@ class ScriptArguments:
 
     # TrainingArguments parameters
     output_dir: str = field(
-        default="./dev/shm/",
+        default="./results",
         metadata={
             "help": "Output directory where the model predictions and checkpoints will be stored"
         },
