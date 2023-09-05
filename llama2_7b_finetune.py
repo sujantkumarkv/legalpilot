@@ -22,15 +22,15 @@ from trl import SFTTrainer
 @dataclass
 class ScriptArguments:
     model_name: Optional[str] = field(
-        default="meta-llama/Llama-2-7b",
-        metadata={"help": "The model that you want to train from the Hugging Face hub"},
+        default="meta-llama/Llama-2-7b-hf",
+        metadata={"help": "The model to be trained on from the Hugging Face hub"},
     )
     dataset_name: Optional[str] = field(
         default="sujantkumarkv/indian_legal_corpus",
-        metadata={"help": "The instruction dataset to use"},
+        metadata={"help": "The finetuning dataset to use"},
     )
     new_model: Optional[str] = field(
-        default="legalpilot-7b-v1.0", metadata={"help": "meta-llama/Llama-2-7b Fine-tuned model to understand indian legal space."}
+        default="legalpilot-7b-india-v1.0", metadata={"help": "meta-llama/Llama-2-7b-hf Fine-tuned model to understand indian legal space."}
     )
     merge_and_push: Optional[bool] = field(
         default=True, metadata={"help": "Merge and push weights after training"}
@@ -160,7 +160,7 @@ script_args = parser.parse_args_into_dataclasses()[0]
 device_map = "auto"
 
 # Load dataset (you can process it here)
-dataset = load_dataset(script_args.dataset_name, split="train")
+train_dataset = load_dataset(script_args.dataset_name, split="train")
 
 # Load tokenizer and model with QLoRA configuration
 compute_dtype = getattr(torch, script_args.bnb_4bit_compute_dtype)
@@ -223,13 +223,13 @@ training_arguments = TrainingArguments(
     warmup_ratio=script_args.warmup_ratio,
     group_by_length=script_args.group_by_length,
     lr_scheduler_type=script_args.lr_scheduler_type,
-    report_to="all",
+    report_to="wandb" ,
 )
 
 # Set supervised fine-tuning parameters
 trainer = SFTTrainer(
     model=model,
-    train_dataset=dataset,
+    train_dataset=train_dataset,
     peft_config=peft_config,
     dataset_text_field="text",
     max_seq_length=script_args.max_seq_length,
