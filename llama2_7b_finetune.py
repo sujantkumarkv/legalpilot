@@ -48,6 +48,9 @@ class ScriptArguments:
     )
 
     # bitsandbytes parameters
+    use_8bit: Optional[bool] = field(
+        default=False, metadata={"help": "Activate 8-bit precision base model loading"}
+    )
     use_4bit: Optional[bool] = field(
         default=True, metadata={"help": "Activate 4-bit precision base model loading"}
     )
@@ -66,13 +69,13 @@ class ScriptArguments:
 
     # TrainingArguments parameters
     output_dir: str = field(
-        default="./results",
+        default="./dev/shm/",
         metadata={
             "help": "Output directory where the model predictions and checkpoints will be stored"
         },
     )
     num_train_epochs: Optional[int] = field(
-        default=1, metadata={"help": "Number of training epochs"}
+        default=3, metadata={"help": "Number of training epochs"}
     )
     fp16: Optional[bool] = field(
         default=False, metadata={"help": "Enable fp16 training"}
@@ -166,6 +169,7 @@ train_dataset = load_dataset(script_args.dataset_name, split="train")
 compute_dtype = getattr(torch, script_args.bnb_4bit_compute_dtype)
 
 bnb_config = BitsAndBytesConfig(
+    load_in_8bit=script_args.use_8bit,
     load_in_4bit=script_args.use_4bit,
     bnb_4bit_quant_type=script_args.bnb_4bit_quant_type,
     bnb_4bit_compute_dtype=compute_dtype,
