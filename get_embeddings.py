@@ -18,7 +18,7 @@ def query(texts):
 
 
 # Get embeddings for each line in ipc.jsonl and store in a dataframe
-def embeddings_df(lines=lines):
+def embeddings_df(lines):
     embeddings = []
     for line in lines:
         data = json.loads(line)
