@@ -16,9 +16,10 @@ def query(texts):
     response = requests.post(api_url, headers=headers, json={"inputs": texts, "options":{"wait_for_model":True}})
     return response.json()
 
-ct = 0
+
 # Get embeddings for each line in ipc.jsonl and store in a dataframe
 def embeddings_df(lines):
+    ct = 0
     embeddings = []
     for line in lines:
         ct += 1
