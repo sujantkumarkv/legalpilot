@@ -45,4 +45,4 @@ ilc_embeddings = embeddings_df(lines)
 # append the new df to the combined df (iteratively)
 # ilc_embeddings = pd.concat([ilc_embeddings, embeddings_df], ignore_index=True)
 
-combined_df.to_pickle('ilc_embeddings.pkl')
+ilc_embeddings.to_pickle('ilc_embeddings.pkl')
