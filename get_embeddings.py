@@ -1,5 +1,5 @@
 # !pip install pandas
-# !wget indian_legal_corpus.jsonl
+# !wget https://raw.githubusercontent.com/sujantkumarkv/legalpilot/main/indian_legal_corpus.jsonl
 # !mkdir embeddings
 import requests
 import json
@@ -31,7 +31,7 @@ def embeddings_df(lines=lines):
 
 # convert embeddings to pickle, then save it in a directory structure.
 
-combined_df = pd.DataFrame()
+ilc_embeddings = pd.DataFrame() # indian_legal_corpus(ilc) embeddings
 
 with open('indian_legal_corpus.jsonl', 'r') as file:
     lines = file.readlines()
@@ -39,6 +39,6 @@ with open('indian_legal_corpus.jsonl', 'r') as file:
 # embeddings with each 4096 chunk
 embeddings_df = embeddings_df(lines)
 # append the new df to the combined df (iteratively)
-combined_df = pd.concat([combined_df, embeddings_df], ignore_index=True)
+ilc_embeddings = pd.concat([ilc_embeddings, embeddings_df], ignore_index=True)
 
-combined_df.to_pickle('embeddings/combined_df.pkl')
+combined_df.to_pickle('ilc_embeddings.pkl')
