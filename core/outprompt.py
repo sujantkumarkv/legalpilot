@@ -3,7 +3,6 @@ import openai
 
 ## GPT 3.5 & 4 models
 
-# openai.api_key = "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"
 
 # text_improvement_system_prompt = "you're an assistant with expertise in understanding, differentiating on legal text & content. \
 #         you'll be given a legal draft text which has some irregularities like maybe a word is incomplete & remaining part is in \
