@@ -1,3 +1,5 @@
+# wget https://raw.githubusercontent.com/sujantkumarkv/legalpilot/main/experiments/embd_runtime_torch.py
+
 import time
 t1 = time.time()
 #--------------------------------- Model download & pytorch -----------------------------------#
@@ -5,7 +7,7 @@ t1 = time.time()
 import torch
 from transformers import AutoTokenizer, AutoModel
 
-model_id = " sujantkumarkv/legalpilot-7b-india-v1.0" # "tiiuae/falcon-rw-1b" # sujantkumarkv/legalpilot-7b-india-v1.0 # NousResearch/Llama-2-7b-hf
+model_id = "sujantkumarkv/legalpilot-7b-india-v1.0" # "tiiuae/falcon-rw-1b" # sujantkumarkv/legalpilot-7b-india-v1.0 # NousResearch/Llama-2-7b-hf
 
 tokenizer = AutoTokenizer.from_pretrained(model_id)
 model = AutoModel.from_pretrained(model_id, output_hidden_states=True)
