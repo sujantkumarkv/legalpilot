@@ -28,7 +28,7 @@ def embeddings_df(lines):
         embedding = query(text)
         embeddings.append(embedding)
         # if ct % 100 == 0:
-        print(ct + " steps done")
+        print(f"{ct} steps done")
     # convert & store temporarily as dataframe
     embeddings_df = pd.DataFrame(embeddings)
     return embeddings_df
