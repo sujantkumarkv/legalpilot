@@ -23,7 +23,7 @@ def embeddings_df():
     ct = 0
     embeddings = []
     with open('indian_legal_corpus.jsonl', 'r') as jsonlines:
-        for json_obj in jsonlines:
+        for line in jsonlines:
             ct += 1
             # Each line is a valid JSON object
             text = json.loads(line)['text'] 
