@@ -1,3 +1,5 @@
+# wget https://raw.githubusercontent.com/sujantkumarkv/legalpilot/main/experiments/embd_runtime_hf.py
+
 import time
 t1 = time.time()
 
@@ -21,6 +23,7 @@ def query(texts):
 with open('indian_legal_corpus.jsonl', 'r') as jsonlines:
     for line in jsonlines:
         text = json.loads(line)['text']
+        text = text[: 1024] # test for smaller sample size during inference
         embedding = query(text)
         t2 = time.time()
         print("embedding done")

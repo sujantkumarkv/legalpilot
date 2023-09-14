@@ -16,6 +16,7 @@ t2 = time.time() # time to load model
 with open('indian_legal_corpus.jsonl', 'r') as jsonlines:
     for line in jsonlines:
         text = json.loads(line)['text']
+        text = text[: 1024] # test for smaller sample size during inference
         break
 
 tokens = tokenizer(text, return_tensors="pt")
@@ -23,7 +24,7 @@ tokens = tokenizer(text, return_tensors="pt")
 with torch.no_grad():
   outputs = model(**tokens)
 
-# print(type(outputs))
+# print(type(outputs
 # print(outputs.last_hidden_state)
 # print(outputs[0].shape)
 
