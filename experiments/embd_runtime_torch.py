@@ -11,6 +11,7 @@ model_id = "sujantkumarkv/legalpilot-7b-india-v1.0" # "tiiuae/falcon-rw-1b" # su
 
 tokenizer = AutoTokenizer.from_pretrained(model_id)
 model = AutoModel.from_pretrained(model_id, output_hidden_states=True)
+t2 = time.time() # time to load model
 
 with open('indian_legal_corpus.jsonl', 'r') as jsonlines:
     for line in jsonlines:
@@ -27,8 +28,9 @@ with torch.no_grad():
 # print(outputs[0].shape)
 
 embeddings = outputs.last_hidden_state
-t2 = time.time()
+t3 = time.time()
 
-print(f"Time: {t2-t1}s")
+print(f"Time to load model: {t2-t1}s")
+print(f"Time for embeddings: {t3-t2}s")
 
 #-------------------------------------------------------------------------------------#
