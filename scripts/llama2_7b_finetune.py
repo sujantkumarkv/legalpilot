@@ -30,7 +30,7 @@ class ScriptArguments:
         metadata={"help": "The finetuning dataset to use"},
     )
     new_model: Optional[str] = field(
-        default="legalpilot-7b-india-v1.0", metadata={"help": "meta-llama/Llama-2-7b-hf Fine-tuned model to understand indian legal space."}
+        default="legalpilot-7b-india-v2", metadata={"help": "meta-llama/Llama-2-7b-hf Fine-tuned model to understand indian legal space."}
     )
     merge_and_push: Optional[bool] = field(
         default=True, metadata={"help": "Merge and push weights after training"}
@@ -49,10 +49,10 @@ class ScriptArguments:
 
     # bitsandbytes parameters
     use_8bit: Optional[bool] = field(
-        default=False, metadata={"help": "Activate 8-bit precision base model loading"}
+        default=True, metadata={"help": "Activate 8-bit precision base model loading"}
     )
     use_4bit: Optional[bool] = field(
-        default=True, metadata={"help": "Activate 4-bit precision base model loading"}
+        default=False, metadata={"help": "Activate 4-bit precision base model loading"}
     )
     bnb_4bit_compute_dtype: Optional[str] = field(
         default="float16", metadata={"help": "Compute dtype for 4-bit base models"}
